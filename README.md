@@ -23,7 +23,7 @@ Project is created with:
 6. Exit
 
 ### The Project
-![print-by-types](images/pokedex1.png.pn)
+![print-by-types](images/pokedex1.png)
 
 ![print-types](images/pokedex2.png)
 
