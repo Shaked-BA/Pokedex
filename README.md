@@ -23,12 +23,12 @@ Project is created with:
 6. Exit
 
 ### The Project
-![print-by-types](pictures/images/pokedex1.png.pn)
+![print-by-types](images/pokedex1.png.pn)
 
-![print-types](pictures/images/pokedex2.png)
+![print-types](images/pokedex2.png)
 
-![insert-pokemon](pictures/images/pokedex3.png)
+![insert-pokemon](images/pokedex3.png)
 
-![fight](pictures/images/pokedex4.png)
+![fight](images/pokedex4.png)
 
-![remove-strongest](pictures/images/pokedex5.png)
+![remove-strongest](images/pokedex5.png)
